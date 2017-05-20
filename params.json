@@ -1,6 +1,0 @@
-{
-  "name": "Pipesjs.GitHub.io",
-  "tagline": "PipesJs Main page",
-  "body": "# pipesjs\r\n\r\n`pipesjs` includes an evolving bunch of modules of utilities and helpers for [`web streams`](https://streams.spec.whatwg.org).\r\n\r\n# Modules\r\n\r\n## [pipes/core](http://pipes.js.org/core)\r\n\r\nThe `core` module contains some basic utility functions to make working with `web streams` easier.\r\n\r\n## Thanks\r\n\r\nThe domain is kindly hosted by:\r\n\r\n![JS.ORG | JavaScript Community](https://logo.js.org/dark_tiny.png \"JS.ORG | JavaScript Community\")\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
