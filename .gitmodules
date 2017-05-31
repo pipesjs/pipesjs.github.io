@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/pipesjs/core.git
+[submodule "utils"]
+	path = utils
+	url = https://github.com/pipesjs/utils.git
+[submodule "convert"]
+	path = convert
+	url = https://github.com/pipesjs/convert.git
