@@ -1,9 +1,0 @@
-[submodule "core"]
-	path = core
-	url = git@github.com:pipesjs/core.git
-[submodule "utils"]
-	path = utils
-	url = git@github.com:pipesjs/utils.git
-[submodule "convert"]
-	path = convert
-	url = git@github.com:pipesjs/convert.git
