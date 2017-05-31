@@ -18,4 +18,4 @@ The `pipesjs/utils` module is to `web streams` what `highland.js` is to `node st
 
 The domain is kindly hosted by:
 
-![JS.ORG | JavaScript Community](https://logo.js.org/dark_tiny.png "JS.ORG | JavaScript Community")
+![JS.ORG | JavaScript Community](https://logo.js.org/dark_tiny.png)
