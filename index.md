@@ -16,8 +16,6 @@ The `pipesjs/utils` module is to `web streams` what `highland.js` is to `node st
 
 ## [pipes/convert](http://pipes.js.org/convert)
 
-The `pipesjs/utils` module is to `web streams` what `highland.js` is to `node streams`. It contains utility functions to make working with `web streams` a lot easier. For more about `Web Streams`, refer to the [spec](https://streams.spec.whatwg.org).
-
 The `pipesjs/convert` module provides various functions to convert `web streams` to other similar `data structures` like `highland` streams, `Observable`s, `Rx` streams etc. and vice versa.
 
 ## Thanks
